@@ -12,12 +12,26 @@
     "@types/node": "18.15.11",
     "@types/react": "18.0.35",
     "@types/react-dom": "18.0.11",
+    "@zerodevapp/sdk": "^2.2.13",
+    "@zerodevapp/social-wallet": "^1.0.1",
+    "@zerodevapp/wagmi": "^1.0.19",
     "autoprefixer": "10.4.14",
+    "connectkit": "^1.2.2",
+    "ethers": "^5.7.2",
+    "magic-sdk": "^16.2.0",
     "next": "13.3.0",
     "postcss": "8.4.21",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tailwindcss": "3.3.1",
     "typescript": "5.0.4"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
